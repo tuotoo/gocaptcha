@@ -1,4 +1,4 @@
-module github.com/lifei6671/gocaptcha
+module github.com/tuotoo/gocaptcha
 
 go 1.21
 

@@ -17,7 +17,7 @@
 #### 使用：
 
 ```
-	go get github.com/lifei6671/gocaptcha/
+	go get github.com/tuotoo/gocaptcha/
 ```
 
 #### 使用的类库

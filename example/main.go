@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/lifei6671/gocaptcha"
+	"github.com/tuotoo/gocaptcha"
 	"html/template"
 	"log"
 	"net/http"
